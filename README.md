@@ -1,2 +1,9 @@
 # data-mining-2018
-Lecture on data mining
+
+Lectures on principles of data mining.
+
+- [Introduction](./01-Introduction.ipynb)
+- [Data processing](./02-Data processing.ipynb)
+- [Modeling](./03-Modeling.ipynb)
+- [Model validation](./04-Validation.ipynb)
+
