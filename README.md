@@ -2,10 +2,8 @@
 
 Lecture on principles of data mining for the course "WETS1050 Environmental change in aquatic ecosystems" at JYU.
 
-- [Introduction](./01-Introduction.ipynb)
-- [Data processing](./02-Data_processing.ipynb)
-- [Modeling](./03-Modeling.ipynb)
-- [Model validation](./04-Validation.ipynb)
+- [Intro](./01-Introduction.ipynb)
+- [Outro](./02-Outro.ipynb)
 
 ## Running the notebooks yourself
 
